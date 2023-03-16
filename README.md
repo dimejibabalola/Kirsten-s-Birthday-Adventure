@@ -33,5 +33,19 @@
     <p>May this birthday be filled with love, joy, and all the things that make you happy. Here's to another incredible year, and many more to come. I love you, Kirsten!</p>
     
     <p>With all my love,</p>
-    <p>[Your Name]</p>
+    <p>[Dimeji]</p>
   </div>
+  
+  <img src="https://i.imgur.com/uEWw0BX.jpg" alt="">
+  <img src="https://i.imgur.com/SO0xrhS.jpg" alt="">
+  
+  <br><br>
+  
+  <a class="gift-card-link" href="https://starbucks.cashstar.com/gift-card/view/TTvMMctvg1ZjNUKMDgwRWUDEs/dimejib7%40gmail.com/" target="_blank">Coffee</a>
+  <br>
+  <a class="gift-card-link" href="https://torrid.cashstar.com/gift-card/view/ZgwfWGOS9F4dWpgbavb3oqWcb/" target="_blank">Torrid</a>
+  <br>
+  <a class="gift-card-link" href="ENTERTAINMENT_GIFT_CARD_URL" target="_blank">Books</a>
+
+</body>
+</html>
