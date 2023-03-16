@@ -1,45 +1,37 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Happy Birthday Kirsten</title>
+  <title>Happy Birthday Kirsten!</title>
   <style>
     body {
-      font-family: Arial, sans-serif;
       text-align: center;
-      padding: 2rem;
+      font-family: Arial, sans-serif;
     }
-    h1 {
-      font-size: 2rem;
-      margin-bottom: 2rem;
-    }
-    .images {
-      display: flex;
-      justify-content: center;
-      gap: 1rem;
-    }
-    img {
-      width: 100px;
-      height: 100px;
-      object-fit: cover;
-      border-radius: 8px;
+    .birthday-letter {
+      font-family: 'Brush Script MT', cursive;
+      font-size: 24px;
+      text-align: left;
+      margin: 20px auto;
+      max-width: 600px;
     }
   </style>
 </head>
 <body>
   <h1>Happy Birthday Kirsten!</h1>
-  <div class="images">
-    <a href="GIFT_CARD_URL" target="_blank">
-      <img src="SUNFLOWER_IMAGE_URL" alt="Sunflower">
-    </a>
-    <a href="GIFT_CARD_URL" target="_blank">
-      <img src="COFFEE_IMAGE_URL" alt="Coffee">
-    </a>
-    <a href="GIFT_CARD_URL" target="_blank">
-      <img src="THEATER_IMAGE_URL" alt="Theater">
-    </a>
+  
+  <div class="birthday-letter">
+    <p>Dear Kirsten,</p>
+    
+    <p>Today is a special day, and I want to take a moment to tell you just how much you mean to me. Happy birthday, my love! You bring so much joy and happiness into my life, and I am grateful for every moment we spend together.</p>
+
+    <p>This past year has been filled with amazing memories, and I can't wait to see what the future holds for us. Your kindness, your laughter, and your unwavering support are just a few of the things I cherish most about you.</p>
+    
+    <p>As we celebrate your special day, I want you to know that I am here for you, always. Together, we'll navigate life's ups and downs, and I promise to do my best to make every day as magical as you are.</p>
+    
+    <p>May this birthday be filled with love, joy, and all the things that make you happy. Here's to another incredible year, and many more to come. I love you, Kirsten!</p>
+    
+    <p>With all my love,</p>
+    <p>[Your Name]</p>
   </div>
-</body>
-</html>
