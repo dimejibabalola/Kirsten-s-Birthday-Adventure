@@ -32,7 +32,7 @@
     <p>May this birthday be filled with love, joy, and all the things that make you happy. Here's to another incredible year, and many more to come. I love you, Kirsten!</p>
     
     <p>With all my love,</p>
-    <p>[Dimeji]</p>
+    <p>Dimeji</p>
   </div>
   
   <img src="https://i.imgur.com/uEWw0BX.jpg" alt="">
